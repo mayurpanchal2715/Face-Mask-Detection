@@ -1,0 +1,15 @@
+# Mask Detection System — Requirements
+# Install with: pip install -r requirements.txt
+
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.13.0
+face-recognition>=1.3.0
+
+# Dashboard
+streamlit>=1.28.0
+streamlit-autorefresh>=0.0.1
+pandas>=2.0.0
+plotly>=5.17.0
+Pillow>=10.0.0
